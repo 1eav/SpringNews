@@ -1,7 +1,6 @@
-package org.example.springexample.service.repository;
+package org.example.springexample.service;
 
 import org.example.springexample.models.News;
-
 import java.util.List;
 
 public interface NewsService {
